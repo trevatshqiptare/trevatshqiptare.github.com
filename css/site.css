@@ -1,0 +1,66 @@
+img{
+	margin: 0px;
+}
+p img{
+    margin: 0px;
+    float: none;
+}
+#header{
+	background: url(../images/ts/ts-header.jpg) no-repeat top left;
+    padding: 10px 60px;
+	position: relative;
+	width: 830px;
+}
+#header h1 {
+    height: 74px;
+    margin: 0;
+}
+#header p{
+	color: #fff;
+}
+
+#header #language {
+        position: absolute;
+		top: 15px;
+		right: 50px;
+		border: 1px solid #009ef5;
+		padding: 5px;
+        background: #009ef5;
+        color: #fff;
+}
+
+h2{
+  font: 18px "Trebuchet MS", Verdana, Arial, Sans-Serif;
+  margin-top: 0;
+}
+
+#main{
+    width: 950px;
+    overflow: hidden;
+}
+
+#main h1{
+	font-size: 16px;
+	font-style: bold;
+	padding: 0px;
+}
+#main p{
+	padding: 0px;
+}
+
+#main #sales{
+    background: #009ef5;
+    color: #fff;
+    text-align:center;
+}
+#main #sales strong{
+    font: 18px "Trebuchet MS", Verdana, Arial, Sans-Serif;
+}
+#main #sales a{
+    color: #fff
+}
+
+#thumbnails img{
+    float: left;
+}
+/* Localized */
